@@ -1,0 +1,13 @@
+D:\4kurs\University\Projects\FilmFilter\FilmFilter\bin\Debug\FilmFilter.exe.config
+D:\4kurs\University\Projects\FilmFilter\FilmFilter\obj\Debug\FilmFilter.csprojResolveAssemblyReference.cache
+D:\4kurs\University\Projects\FilmFilter\FilmFilter\obj\Debug\MainWindow.baml
+D:\4kurs\University\Projects\FilmFilter\FilmFilter\obj\Debug\MainWindow.g.cs
+D:\4kurs\University\Projects\FilmFilter\FilmFilter\obj\Debug\App.g.cs
+D:\4kurs\University\Projects\FilmFilter\FilmFilter\obj\Debug\FilmFilter_MarkupCompile.cache
+D:\4kurs\University\Projects\FilmFilter\FilmFilter\obj\Debug\FilmFilter.g.resources
+D:\4kurs\University\Projects\FilmFilter\FilmFilter\obj\Debug\FilmFilter.Properties.Resources.resources
+D:\4kurs\University\Projects\FilmFilter\FilmFilter\obj\Debug\FilmFilter.csproj.GenerateResource.Cache
+D:\4kurs\University\Projects\FilmFilter\FilmFilter\bin\Debug\FilmFilter.exe
+D:\4kurs\University\Projects\FilmFilter\FilmFilter\bin\Debug\FilmFilter.pdb
+D:\4kurs\University\Projects\FilmFilter\FilmFilter\obj\Debug\FilmFilter.exe
+D:\4kurs\University\Projects\FilmFilter\FilmFilter\obj\Debug\FilmFilter.pdb
