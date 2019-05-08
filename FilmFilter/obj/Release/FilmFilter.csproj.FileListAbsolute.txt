@@ -1,0 +1,13 @@
+D:\4kurs\University\Projects\FilmFilter\FilmFilter\bin\Release\FilmFilter.exe.config
+D:\4kurs\University\Projects\FilmFilter\FilmFilter\bin\Release\FilmFilter.exe
+D:\4kurs\University\Projects\FilmFilter\FilmFilter\bin\Release\FilmFilter.pdb
+D:\4kurs\University\Projects\FilmFilter\FilmFilter\obj\Release\FilmFilter.csprojResolveAssemblyReference.cache
+D:\4kurs\University\Projects\FilmFilter\FilmFilter\obj\Release\MainWindow.baml
+D:\4kurs\University\Projects\FilmFilter\FilmFilter\obj\Release\MainWindow.g.cs
+D:\4kurs\University\Projects\FilmFilter\FilmFilter\obj\Release\App.g.cs
+D:\4kurs\University\Projects\FilmFilter\FilmFilter\obj\Release\FilmFilter_MarkupCompile.cache
+D:\4kurs\University\Projects\FilmFilter\FilmFilter\obj\Release\FilmFilter.g.resources
+D:\4kurs\University\Projects\FilmFilter\FilmFilter\obj\Release\FilmFilter.Properties.Resources.resources
+D:\4kurs\University\Projects\FilmFilter\FilmFilter\obj\Release\FilmFilter.csproj.GenerateResource.Cache
+D:\4kurs\University\Projects\FilmFilter\FilmFilter\obj\Release\FilmFilter.exe
+D:\4kurs\University\Projects\FilmFilter\FilmFilter\obj\Release\FilmFilter.pdb
